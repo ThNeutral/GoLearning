@@ -1,2 +1,1 @@
 # Go Learning Repo
-# PythonChessGame
